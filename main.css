@@ -1,0 +1,44 @@
+body {
+  position: relative;
+}
+
+.top-linear-bar {
+  position: absolute;
+  margin: 0;
+  padding: 0;
+  height: 0.1rem;
+  width: 100%;
+}
+
+.top-linear-bar .column {
+  height: 0.5rem;
+  padding: 0;
+}
+
+.invites-you {
+  padding: 2rem 0;
+  font-family: 'Pacifico', cursive;
+}
+
+.nsut-title {
+  margin: 0 !important;
+  padding: 1rem 0;
+}
+
+.nsut-subtitle {
+  margin: 0;
+  padding: 1rem 0;
+}
+
+.action-button {
+  margin: 5rem 0;
+}
+
+.guidelines {
+  padding: 5rem 2rem;
+  padding-top: 2rem;
+}
+
+.instructions {
+  padding: 1rem;
+}
